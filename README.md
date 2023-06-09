@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParniGarg
+- 👋 Hi, I’m @Parni Garg
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning SQL and Power BI
 - 💞️ I’m looking to collaborate on ...
